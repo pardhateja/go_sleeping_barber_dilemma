@@ -1,6 +1,4 @@
-arle# go_sleeping_barber_dilemma
 This is an Git hub repository which helps in solving the problem of sleeper barber dilemma
-
 
 Question description:
 
@@ -22,3 +20,5 @@ any waiting customers and falls asleep if there are none
 until the waiting room is empty
 • after the shop is closed and there are no clients left in the waiting area, the barber
 goes home
+
+
