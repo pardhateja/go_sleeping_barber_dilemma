@@ -1,6 +1,6 @@
-This is an Git hub repository which helps in solving the problem of sleeper barber dilemma
+## This is an Git hub repository which helps in solving the problem of sleeper barber dilemma
 
-Question description:
+# Question description:
 
 Problem description: This is a simple demonstration of how to solve the Sleeping
 Barber dilemma, a classic computer science problem which illustrates the
@@ -22,3 +22,4 @@ until the waiting room is empty
 goes home
 
 
+## Run the file main.go and give the respective values to make the code run.
