@@ -19,7 +19,7 @@ func main() {
 		return
 	}
 
-	fmt.Printf("enter the avg time taken for each haircut: ")
+	fmt.Printf("enter the avg time taken for each haircut in milliseconds: ")
 
 	_, err = fmt.Scanf("%d ", &timePerHairCut)
 	if err != nil {
@@ -35,7 +35,7 @@ func main() {
 		return
 	}
 
-	fmt.Printf("enter the total time the shop will be open: ")
+	fmt.Printf("enter the total time the shop will be open in secs: ")
 
 	_, err = fmt.Scanf("%d ", &shopOpenTime)
 	if err != nil {
